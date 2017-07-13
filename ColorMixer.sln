@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorMixer.Editor", "ColorMixer.Editor\ColorMixer.Editor.csproj", "{085851CB-3C67-4525-B194-7BF5B449479A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorMixer.Business", "ColorMixer.Business\ColorMixer.Business.csproj", "{AA127BE4-CABD-4DD9-9662-B652B5C4DB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorMixer.Domain", "ColorMixer.Domain\ColorMixer.Domain.csproj", "{A9938DAE-65D0-46C6-B7FE-4BF2B7B61BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorMixer.UserControlColorPicker", "ColorMixer.UserControlColorPicker\ColorMixer.UserControlColorPicker.csproj", "{FD2EC7D4-4316-4F8F-8108-8381F0B4B340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{085851CB-3C67-4525-B194-7BF5B449479A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085851CB-3C67-4525-B194-7BF5B449479A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085851CB-3C67-4525-B194-7BF5B449479A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085851CB-3C67-4525-B194-7BF5B449479A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA127BE4-CABD-4DD9-9662-B652B5C4DB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA127BE4-CABD-4DD9-9662-B652B5C4DB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA127BE4-CABD-4DD9-9662-B652B5C4DB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA127BE4-CABD-4DD9-9662-B652B5C4DB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9938DAE-65D0-46C6-B7FE-4BF2B7B61BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9938DAE-65D0-46C6-B7FE-4BF2B7B61BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9938DAE-65D0-46C6-B7FE-4BF2B7B61BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9938DAE-65D0-46C6-B7FE-4BF2B7B61BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2EC7D4-4316-4F8F-8108-8381F0B4B340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2EC7D4-4316-4F8F-8108-8381F0B4B340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2EC7D4-4316-4F8F-8108-8381F0B4B340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2EC7D4-4316-4F8F-8108-8381F0B4B340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
